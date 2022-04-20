@@ -1,11 +1,10 @@
 import React from 'react'
-import One from './Newtodo/One'
-//import Todolist from './Todo/Todolist'
+import Currency from './Currency'
 
 function App() {
   return (
     <div>
-    <One/>
+        <Currency/>
     </div>
   )
 }
